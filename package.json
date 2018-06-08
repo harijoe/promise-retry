@@ -1,0 +1,24 @@
+{
+  "name": "@harijoe/promise-retry",
+  "version": "1.0.0",
+  "description": "Helper to keep retrying a promise if it fails",
+  "main": "injex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harijoe/promise-retry.git"
+  },
+  "keywords": [
+    "promise",
+    "retry",
+    "helper"
+  ],
+  "author": "Julien Vallini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harijoe/promise-retry/issues"
+  },
+  "homepage": "https://github.com/harijoe/promise-retry#readme"
+}
